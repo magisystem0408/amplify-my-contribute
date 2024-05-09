@@ -20,3 +20,9 @@
 > https://zenn.dev/purpom/articles/c00ee32f8024f4
 > https://zenn.dev/purpom/articles/d92ef0e1123079
 > https://zenn.dev/purpom/articles/12538dec010be8
+
+## Conference
+
+Join
+
+> https://aws-amplify-jp.connpass.com/event/312975/
