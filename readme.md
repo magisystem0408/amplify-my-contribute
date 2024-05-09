@@ -1,3 +1,9 @@
+## Amplify
+
+### discord
+
+> https://discord.com/channels/705853757799399426/1205197102339068045/1205197102339068045
+
 ## Amplify Gen2
 
 ### Pull Request
@@ -11,6 +17,14 @@
 > https://github.com/aws-amplify/amplify-backend/issues/888#issuecomment-1916553996
 > https://github.com/aws-amplify/amplify-backend/issues/1200
 > https://github.com/aws-amplify/amplify-backend/issues/842
+
+## Amplify Flutter
+
+### Pull Request
+> https://github.com/aws-amplify/amplify-flutter/pull/4229
+
+### Issue
+> https://github.com/aws-amplify/docs/issues/6637
 
 ## My Posts
 
