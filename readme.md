@@ -4,7 +4,7 @@
 
 https://discord.com/channels/705853757799399426/1205197102339068045/1205197102339068045
 
-## Amplify Gen2
+## [Amplify Gen2](https://aws.amazon.com/jp/blogs/mobile/amplify-gen2-ga/)
 
 ### Pull Request
 
