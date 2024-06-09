@@ -55,3 +55,8 @@ https://zenn.dev/purpom/articles/12538dec010be8
 Join
 
 https://aws-amplify-jp.connpass.com/event/312975/
+
+## Docs
+
+### Pull Request
+https://github.com/aws-amplify/docs/pull/7729
