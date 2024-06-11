@@ -32,9 +32,13 @@ https://github.com/aws-amplify/amplify-backend/issues/1498
 
 https://github.com/aws-amplify/amplify-flutter/pull/4229
 
+https://github.com/aws-amplify/amplify-flutter/pull/5015
+
 ### Issue
 
 https://github.com/aws-amplify/docs/issues/6637
+
+https://github.com/aws-amplify/amplify-flutter/issues/5013
 
 ## My Posts
 
@@ -59,4 +63,5 @@ https://aws-amplify-jp.connpass.com/event/312975/
 ## Docs
 
 ### Pull Request
+
 https://github.com/aws-amplify/docs/pull/7729
