@@ -22,6 +22,8 @@ https://github.com/aws-amplify/amplify-backend/issues/1200
 
 https://github.com/aws-amplify/amplify-backend/issues/842
 
+https://github.com/aws-amplify/amplify-backend/issues/1795
+
 ### Issue Feature Request
 
 https://github.com/aws-amplify/amplify-backend/issues/1498
@@ -65,3 +67,9 @@ https://aws-amplify-jp.connpass.com/event/312975/
 ### Pull Request
 
 https://github.com/aws-amplify/docs/pull/7729
+
+
+### Other
+Create Design Amplify
+
+https://discord.com/channels/705853757799399426/705913065840836648/1268379811655717026
