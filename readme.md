@@ -68,6 +68,7 @@ https://aws-amplify-jp.connpass.com/event/312975/
 
 https://github.com/aws-amplify/docs/pull/7729
 
+https://github.com/aws-amplify/docs/pull/7786
 
 ### Other
 Create Design Amplify
